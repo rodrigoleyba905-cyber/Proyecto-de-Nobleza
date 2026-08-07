@@ -1,0 +1,2 @@
+CREATE USER 'trackpc_admin'@'%'
+ IDENTIFIED BY 'Tr@ckPC_2026$N0bl3zA!';
